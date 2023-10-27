@@ -1,5 +1,5 @@
 # KitchenPilot
-Proyecto integrador del aula ( Media Tecnica ) basado en html y css
+Proyecto integrador del aula ( Media Tecnica ) basado en html y css. Estudiantes de técnico laboral 
 
 Miembros del grupo: 
 - Jacobo García Valencia ( T.I. 1020111413 )
